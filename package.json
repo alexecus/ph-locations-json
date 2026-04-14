@@ -1,0 +1,9 @@
+{
+  "name": "ph-locations-json",
+  "version": "1.0.0",
+  "description": "Philippine administrative divisions (regions, provinces, municipalities, cities, barangays) as JSON.",
+  "scripts": {
+    "minify": "node scripts/minify.js"
+  },
+  "license": "MIT"
+}
